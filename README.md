@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07" alt="devansh-07" /> </p>
 
-- 🌱 I’m currently learning **Database Management**
+- 🌱 I’m currently learning **JavaScript, Database Management**
 
-- 👨‍💻 All of my projects are available at [devansh-07.github.io](devansh-07.github.io)
+- 👨‍💻 All of my projects are available at [https://devansh-07.github.io](devansh-07.github.io)
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, JavaScript, Linux**
 
 - 📫 How to reach me **sonidev0201@gmail.com**
 
