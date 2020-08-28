@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Database Management**
 
-- 👨‍💻 All of my projects are available at [https://devansh-07.github.io](devansh-07.github.io)
+- 👨‍💻 All of my projects are available at [https://devansh-07.github.io](https://devansh-07.github.io)
 
 - 💬 Ask me about **Python, JavaScript, Linux**
 
@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true" alt="devansh-07" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/devansh-soni-4129171a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devansh-soni-4129171a9" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12566054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12566054" height="30" width="30" /></a>
-<a href="https://instagram.com/dsoni_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsoni_01" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/devansh-soni-4129171a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devansh-soni-4129171a9" height="30" width="30" style="margin: 2px;"/></a>
+<a href="https://stackoverflow.com/users/12566054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12566054" height="30" width="30" style="margin: 2px;"/></a>
+<a href="https://instagram.com/dsoni_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsoni_01" height="30" width="30" style="margin: 2px;"/></a>
 </p>
