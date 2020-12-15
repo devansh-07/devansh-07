@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devansh-07.github.io](https://devansh-07.github.io)
 
-- 💬 Ask me about **Python, JavaScript, Linux**
+- 💬 Ask me about **Python, JavaScript, C++, Linux**
 
 - 📫 Want to contact me? Mail at **sonidev0201@gmail.com**
 
