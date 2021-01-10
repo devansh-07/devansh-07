@@ -11,10 +11,10 @@
 
 - 📫 Want to contact me? Mail at **sonidev0201@gmail.com**
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true" alt="devansh-07" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true" alt="devansh-07"/></span>
 
 <span align="left">
-<a href="https://linkedin.com/in/devansh-07" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devansh-soni-4129171a9" height="30" width="30" style="margin: 200px;"/></a>
-<a href="https://stackoverflow.com/users/12566054" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12566054" height="30" width="30" style="margin: 200px;"/></a>
-<a href="https://instagram.com/dsoni_01" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsoni_01" height="30" width="30" style="margin: 200px;"/></a>
+  <a href="https://linkedin.com/in/devansh-07" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devansh-07" height="30" width="30" style="margin: 200px;"/></a>
+  <a href="https://stackoverflow.com/users/12566054" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12566054" height="30" width="30" style="margin: 200px;"/></a>
+  <a href="https://instagram.com/dsoni_01" target="blank" style="margin: 200px;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsoni_01" height="30" width="30" style="margin: 200px;"/></a>
 </span>
