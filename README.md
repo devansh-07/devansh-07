@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh!</h1>
 <h3 align="center">A passionate Python developer from Jabalpur, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07" alt="devansh-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07&color=red&&style=flat-square" alt="devansh-07" /> </p>
 
 - 🌱 I’m currently learning **Django, JavaScript**
 
