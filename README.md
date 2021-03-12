@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devansh Soni</h1>
 <h3 align="center">A passionate Django developer from Jabalpur, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07&label=Profile%20views&color=red&&style=flat-square" alt="devansh-07" /> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07&label=Profile%20views&color=red&&style=flat-square" alt="devansh-07" /> </span>
+
+<span align="left"> <a href="https://twitter.com/devansh07_" target="blank"><img src="https://img.shields.io/twitter/follow/devansh07_?logo=twitter&style=for-the-badge" alt="devansh07_" /></a> </span>
 
 - 🌱 I’m currently learning **Django**
 
