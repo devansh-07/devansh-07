@@ -3,8 +3,6 @@
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07&label=Profile%20views&color=red&&style=flat-square" alt="devansh-07" /> </span>
 
-<span align="left"> <a href="https://twitter.com/devansh07_" target="blank"><img src="https://img.shields.io/twitter/follow/devansh07_?logo=twitter&style=for-the-badge" alt="devansh07_" /></a> </span>
-
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [devansh-07.github.io](https://devansh-07.github.io "Devansh's Portfolio")
