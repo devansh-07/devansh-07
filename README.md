@@ -3,11 +3,11 @@
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-07&label=Profile%20views&color=red&&style=flat-square" alt="devansh-07" /> </span>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Django REST Framework**
 
 - 👨‍💻 All of my projects are available at [devansh-07.github.io](https://devansh-07.github.io "Devansh's Portfolio")
 
-- 💬 Ask me about **Python, Flask, Django**
+- 💬 Ask me about **Python, Django, Django REST framework**
 
 - 📫 How to reach me **sonidev0201@gmail.com**
 
