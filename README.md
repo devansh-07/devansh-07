@@ -49,20 +49,15 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <table border="0" width="100%" align="center">
-  <tr>
-    <td align="center" width="500px" rowspan="3" border="0">
-      <img src="https://github.com/devansh-07/devansh-07/raw/master/console.svg" alt="Illustration" />
-    </td>
-    <td align="center" border="0">
-      <img src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" border="0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-07&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" />
-    </td>
-  </tr>
+<tr>
+<td align="center" border="0">
+<img src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" />
+</td>
+
+<td align="center" border="0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-07&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" />
+</td>
+</tr>
 </table>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
