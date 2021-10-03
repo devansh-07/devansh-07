@@ -51,7 +51,7 @@
 <table border="0" width="100%" align="center">
   <tr>
     <td align="center" width="500px" rowspan="3" border="0">
-      <img src="https://github.com/devansh-07/devansh-07/raw/main/console.svg" alt="Illustration" />
+      <img src="https://github.com/devansh-07/devansh-07/raw/master/console.svg" alt="Illustration" />
     </td>
     <td align="center" border="0">
       <img src="https://github-readme-stats.vercel.app/api?username=devansh-07&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" />
